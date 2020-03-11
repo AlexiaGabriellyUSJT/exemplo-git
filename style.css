@@ -1,0 +1,19 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0 80px;
+}
+
+header, ul {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav {
+    width: 600px;
+}
+
+ul {
+    list-style: none;
+}
